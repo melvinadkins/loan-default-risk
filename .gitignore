@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+
+# CatBoost log
+catboost_info/
+
+# Data and model artifacts
+data/*
+*.joblib

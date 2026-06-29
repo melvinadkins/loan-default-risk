@@ -1,6 +1,6 @@
 # Loan Default Risk Prediction
 
-Lenders need to identify higher-risk borrowers before losses occur, not after. This project builds and end-to-end default risk pipeline predicting 12-month loan default using borrower, loan, credit, and pricing features from a private loan-level dataset of 50K originations spanning January 2021 to September 2024. It compares a regularized Logistic Regression baseline with a tuned CatBoost model, evaluates performance under severe class imbalance (3% default rate), and uses SHAP to interpret the key drivers of default risk.
+Lenders need to identify higher-risk borrowers before losses occur, not after. This project builds and end-to-end default risk pipeline predicting 12-month loan default using borrower, loan, credit, and pricing features from a private loan-level dataset of 50K originations spanning January 2021 to September 2024. It compares a regularized Logistic Regression baseline with a tuned CatBoost model, evaluates performance under severe class imbalance (3% default rate), and uses SHAP to interpret the key drivers of default risk.   
 
 > **Note:** The dataset is proprietary and not publicly redistributable. The modeling workflow, evaluation code, and visualizations are included for review purposes.
 

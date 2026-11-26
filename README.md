@@ -213,7 +213,7 @@ Interpretability is especially important in credit risk modeling because model o
 ## Repository Structure
 
 ```text
-default-risk/
+loan-default-risk/
 ├── artifacts/                  # Saved plots and model evaluation visuals
 ├── data/
 │   └── README.md               # Data access note; raw data excluded

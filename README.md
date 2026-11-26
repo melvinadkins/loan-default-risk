@@ -249,7 +249,7 @@ data/
 
 ```bash
 # Clone the repository
-git clone https://github.com/melvinadkins/chd-risk-prediction.git
+git clone https://github.com/melvinadkins/loan-default-risk.git
 cd loan-default-risk
 
 # Create and activate a virtual environment
